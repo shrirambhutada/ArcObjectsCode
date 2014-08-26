@@ -1,0 +1,4 @@
+C:\junk\incidents\1209873\FeildVisibility_1209873\FeildVisibility_1209873\bin\Debug\FeildVisibility_1209873.exe
+C:\junk\incidents\1209873\FeildVisibility_1209873\FeildVisibility_1209873\bin\Debug\FeildVisibility_1209873.pdb
+C:\junk\incidents\1209873\FeildVisibility_1209873\FeildVisibility_1209873\obj\x86\Debug\FeildVisibility_1209873.exe
+C:\junk\incidents\1209873\FeildVisibility_1209873\FeildVisibility_1209873\obj\x86\Debug\FeildVisibility_1209873.pdb

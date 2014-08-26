@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ArcMapAddin_comboBox
+</name>
+</assembly>
+<members>
+<member name="P:ArcMapAddin_comboBox.My.ThisAddIn.IDs.Tool1">
+	<summary>
+Returns 'ArcMapAddin_comboBox_Tool1', the id declared for Add-in Tool class 'Tool1'
+</summary>
+</member><member name="P:ArcMapAddin_comboBox.My.ThisAddIn.IDs.Combo1">
+	<summary>
+Returns 'ArcMapAddin_comboBox_Combo1', the id declared for Add-in ComboBox class 'Combo1'
+</summary>
+</member><member name="T:ArcMapAddin_comboBox.My.ThisAddIn.IDs">
+	<summary>
+A class for looking up Add-in id strings declared in the associated configuration xml file (.esriaddinx).
+</summary>
+</member><member name="T:ArcMapAddin_comboBox.My.ThisAddIn">
+	<summary>
+A class for looking up declarative information in the associated configuration xml file (.esriaddinx).
+</summary>
+</member><member name="M:ArcMapAddin_comboBox.My.Internal.AddInStartupObject.GetThis">
+	<summary>
+ Expose this instance of Add-in class externally
+ </summary>
+</member><member name="P:ArcMapAddin_comboBox.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ArcMapAddin_comboBox.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ArcMapAddin_comboBox.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

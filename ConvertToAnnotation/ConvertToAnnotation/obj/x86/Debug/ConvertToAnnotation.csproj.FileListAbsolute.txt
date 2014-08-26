@@ -1,0 +1,8 @@
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\bin\Debug\ConvertToAnnotation.exe
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\bin\Debug\ConvertToAnnotation.pdb
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\obj\x86\Debug\ConvertToAnnotation.Form1.resources
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\obj\x86\Debug\ConvertToAnnotation.Properties.Resources.resources
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\obj\x86\Debug\ConvertToAnnotation.csproj.GenerateResource.Cache
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\obj\x86\Debug\ConvertToAnnotation.exe
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\obj\x86\Debug\ConvertToAnnotation.pdb
+D:\incidents\2014\June\1285102_Labeledit\ConvertToAnnotation\ConvertToAnnotation\obj\x86\Debug\ConvertToAnnotation.Form_LabelEdit.resources

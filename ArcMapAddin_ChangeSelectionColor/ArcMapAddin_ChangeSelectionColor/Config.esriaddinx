@@ -1,0 +1,20 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ArcMapAddin_ChangeSelectionColor</Name>
+  <AddInID>{f2ef6cda-c1eb-4305-9e75-d9b85ea9c82e}</AddInID>
+  <Description>Type in a description for this Add-in.</Description>
+  <Version>1.0</Version>
+  <Image>Images\ArcMapAddin_ChangeSelectionColor.png</Image>
+  <Author>shri7492</Author>
+  <Company></Company>
+  <Date>8/7/2014</Date>
+  <Targets>
+    <Target name="Desktop" version="10.2" />
+  </Targets>
+  <AddIn language="CLR" library="ArcMapAddin_ChangeSelectionColor.dll" namespace="ArcMapAddin_ChangeSelectionColor">
+    <ArcMap>
+      <Extensions>
+        <Extension id="ArcMapAddin_ChangeSelectionColor_ChangeSelectionColor" class="ChangeSelectionColor" productName="SlectionChanger" showInExtensionDialog="true" autoLoad="true" />
+      </Extensions>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

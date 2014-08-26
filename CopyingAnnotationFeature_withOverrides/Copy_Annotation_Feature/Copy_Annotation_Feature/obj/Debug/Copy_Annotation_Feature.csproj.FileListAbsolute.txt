@@ -1,0 +1,11 @@
+E:\Ameya\1248407 Copy Curved Annotation Feature\Copy_Annotation_Feature\Copy_Annotation_Feature\bin\Debug\Copy_Annotation_Feature.dll
+E:\Ameya\1248407 Copy Curved Annotation Feature\Copy_Annotation_Feature\Copy_Annotation_Feature\bin\Debug\Copy_Annotation_Feature.pdb
+E:\Ameya\1248407 Copy Curved Annotation Feature\Copy_Annotation_Feature\Copy_Annotation_Feature\obj\Debug\ResolveAssemblyReference.cache
+E:\Ameya\1248407 Copy Curved Annotation Feature\Copy_Annotation_Feature\Copy_Annotation_Feature\obj\Debug\Copy_Annotation_Feature.dll
+E:\Ameya\1248407 Copy Curved Annotation Feature\Copy_Annotation_Feature\Copy_Annotation_Feature\obj\Debug\Copy_Annotation_Feature.pdb
+E:\Ameya\1248407 Copy Curved Annotation Feature\Copy_Annotation_Feature\Copy_Annotation_Feature\bin\Debug\Copy_Annotation_Feature.esriAddIn
+D:\incidents\2014\Mar\1248407_CurvedAnnotation\Copy_Annotation_Feature\Copy_Annotation_Feature\bin\Debug\Copy_Annotation_Feature.dll
+D:\incidents\2014\Mar\1248407_CurvedAnnotation\Copy_Annotation_Feature\Copy_Annotation_Feature\bin\Debug\Copy_Annotation_Feature.pdb
+D:\incidents\2014\Mar\1248407_CurvedAnnotation\Copy_Annotation_Feature\Copy_Annotation_Feature\obj\Debug\Copy_Annotation_Feature.dll
+D:\incidents\2014\Mar\1248407_CurvedAnnotation\Copy_Annotation_Feature\Copy_Annotation_Feature\obj\Debug\Copy_Annotation_Feature.pdb
+D:\incidents\2014\Mar\1248407_CurvedAnnotation\Copy_Annotation_Feature\Copy_Annotation_Feature\bin\Debug\Copy_Annotation_Feature.esriAddIn
